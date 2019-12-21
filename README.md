@@ -7,6 +7,13 @@
 Easy Leading Service API. It is an API that helps you manager (start,stop,add,remove) services with python. It creates an additional python layer for the services and it does not uses native system ways of creating services. It is simpler!
 Right now the possible sources are downloaded from github!
 
+# Linux Automatic Installation
+
+- Just run the following command in your bash
+
+```curl -s https://raw.githubusercontent.com/Callibrator/ELSA/master/install.sh | sudo bash```
+
+
 # Communication Protocol
 
 - connect to ELSA with tcp/ip sockets
